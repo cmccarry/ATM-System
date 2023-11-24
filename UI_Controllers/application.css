@@ -1,0 +1,9 @@
+.backgroundColor {
+	-fx-background-color: linear-gradient(to right bottom, #010124, #01018c);
+}
+
+.button {
+	-fx-background-color: royalblue;
+	-fx-font-family: "Andale Mono";
+	-fx-text-fill: white;
+}
